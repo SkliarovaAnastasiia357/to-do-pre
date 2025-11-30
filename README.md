@@ -1,4 +1,4 @@
-https://github.com/SkliarovaAnastasiia357/to-do-pre/edit/main/README.md 
+https://github.com/SkliarovaAnastasiia357/to-do-pre
 
     Настя, студентка, с тетрадкой и ручкой,
 
@@ -34,4 +34,5 @@ https://github.com/SkliarovaAnastasiia357/to-do-pre/edit/main/README.md
     И знает теперь: JavaScript — это сила,
 
     Когда ты упорно идешь напролом!
+
 
