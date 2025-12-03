@@ -15,6 +15,7 @@ function loadTasks() {
     const saved = localStorage.getItem("tasks");
     return saved ? JSON.parse(saved) : items;
 }
+
 // Функция создания элемента задачи
 function createItem(item) {
     const template = document.getElementById("to-do__item-template");
